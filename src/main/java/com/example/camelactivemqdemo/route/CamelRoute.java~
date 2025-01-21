@@ -1,0 +1,4 @@
+package com.example.camelactivemqdemo.route;
+
+public class CamelRoute {
+}
