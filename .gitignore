@@ -38,3 +38,7 @@ replay_pid*
 # Directorios de compilación
 /out/
 
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
